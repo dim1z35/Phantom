@@ -31,4 +31,3 @@ package.bat
 
 ## Linux
 - [Linux Tutorial using Proton](https://www.reddit.com/r/linux_gaming/comments/1fwa4l8/guide_running_a_fortnite_private_server_to_play/)
-- 
