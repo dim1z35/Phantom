@@ -1,6 +1,6 @@
 {
   "name": "phantom",
-  "version": "1.1.8",
+  "version": "0.1.0",
   "description": "Phantom — fast and smooth. Report any bugs in our Discord server to help us improve.",
   "main": "index.js",
   "dependencies": {
